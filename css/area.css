@@ -1,0 +1,13 @@
+.header{
+    grid-area:hd; 
+}
+.header img{
+    width:100%;
+    height:100%;
+}
+.content{
+    grid-area:main;
+}
+.footer{
+    grid-area:ft;
+}
